@@ -1,0 +1,2 @@
+---
+Checks: -*, performance-*, bugprone-*, clang-analyzer-*, readability-identifier*
